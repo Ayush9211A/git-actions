@@ -1,0 +1,1 @@
+print("Hellow dosto kya haal chaal")
